@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import SeasonDisplay from "./SeasonDisplay";
 import Spinner from "./Spinner";
-
+// need to import SEMANTIC - UI package
 if (module.hot) {
   module.hot.accept();
 }
